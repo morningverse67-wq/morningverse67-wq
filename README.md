@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./morningverse-banner.svg" width="100%" alt="morningverse. Small ideas. Useful tools. Steady progress." />
+  <img src="./morningverse-banner.svg" width="100%" alt="morningverse. Reproduce. Measure. Record." />
 </p>
 
 <div align="center">
 
-### 작은 아이디어를, 쓸모 있는 도구로.
+### 백엔드의 데이터·성능 문제를 재현하고, 측정하고, 기록합니다.
 
-일상의 불편함에서 출발해 직접 만들고,  
-배운 것을 기록하며 조금씩 더 나아갑니다.
+"왜 느리지?"에서 멈추지 않고 작은 코드로 다시 만들어 보고,  
+직접 잰 숫자로 선택의 근거를 남깁니다.
 
-<sub>BUILD WITH CURIOSITY · LEARN BY DOING · KEEP IT SIMPLE</sub>
+<sub>REPRODUCE · MEASURE · RECORD</sub>
 
 </div>
 
@@ -18,35 +18,45 @@
 <table>
 <tr>
 <td width="400" valign="top">
-<h3>01 / Build</h3>
-<b>필요에서 시작하기</b>
-<p>반복되는 일을 줄이고<br />일상을 더 편리하게 만드는 도구.</p>
+<h3>01 / Reproduce</h3>
+<b>작게 다시 만들기</b>
+<p>N+1, 인덱스, 락, 캐시 같은 문제를<br />바로 실행되는 작은 코드로 재현.</p>
 </td>
 <td width="400" valign="top">
-<h3>02 / Learn</h3>
-<b>만들면서 배우기</b>
-<p>작은 실험을 통해 배우고<br />다음 시도에 배움을 연결하기.</p>
+<h3>02 / Measure</h3>
+<b>직접 재기</b>
+<p>쿼리 수와 응답 시간을 직접 측정하고<br />추측 대신 숫자로 비교.</p>
 </td>
 <td width="400" valign="top">
-<h3>03 / Refine</h3>
-<b>조금씩 더 나아가기</b>
-<p>복잡한 것은 단순하게,<br />작은 디테일은 더 세심하게.</p>
+<h3>03 / Record</h3>
+<b>근거 남기기</b>
+<p>무엇을 골랐고 무엇을 포기했는지<br />트레이드오프까지 기록.</p>
 </td>
 </tr>
 </table>
 
 <br />
 
-### Tools I work with
+### Now
 
-automation & scripting &nbsp; · &nbsp; `Python`  
-web experiments &nbsp; · &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS`  
-native apps &nbsp; · &nbsp; `Swift`
+**[backend-lab](https://github.com/morningverse67-wq/backend-lab)** &nbsp; 백엔드 문제를 하루 하나씩 재현하고 측정하는 실험실  
+<sub>첫 실험: N+1 쿼리. 501번 vs 1번, 쿼리당 0.5ms 왕복만 가정해도 321ms vs 1.7ms</sub>
+
+### Writing
+
+**[Velog @morningverse](https://velog.io/@morningverse)** &nbsp; 실험 중 일부를 글로 풀어 씁니다  
+<sub>최근 글: [N+1 쿼리는 왜 생길까?](https://velog.io/@morningverse/N1-쿼리는-왜-생길까)</sub>
+
+### Tools
+
+backend &nbsp; · &nbsp; `SQL` &nbsp; `MyBatis`  
+experiments &nbsp; · &nbsp; `Python` &nbsp; `SQLite`  
+also &nbsp; · &nbsp; `JavaScript` &nbsp; `Swift`
 
 <br />
 
 ---
 
 <p align="center">
-  <sub>SMALL STEPS. THOUGHTFUL TOOLS. A LITTLE BETTER, EVERY DAY.</sub>
+  <sub>SMALL STEPS. MEASURED CHOICES. A LITTLE BETTER, EVERY DAY.</sub>
 </p>
