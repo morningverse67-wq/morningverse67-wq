@@ -39,8 +39,11 @@
 
 ### Now
 
-**[backend-lab](https://github.com/morningverse67-wq/backend-lab)** &nbsp; 백엔드 문제를 하루 하나씩 재현하고 측정하는 실험실  
-<sub>첫 실험: N+1 쿼리. 501번 vs 1번, 쿼리당 0.5ms 왕복만 가정해도 321ms vs 1.7ms</sub>
+**[backend-interview-lab](https://github.com/morningverse67-wq/backend-interview-lab)** &nbsp; 백엔드 면접 질문, 직접 실행하고 측정한 근거로 답하기  
+<sub>N+1: 쿼리 501번 321ms → 1번 1.7ms · 인덱스: 선택적 조회 887배, 90% 조회는 0.9배</sub>
+
+**[backend-lab](https://github.com/morningverse67-wq/backend-lab)** &nbsp; 위 답변의 근거가 되는 실험 코드. 하루 하나씩 재현하고 측정합니다  
+<sub>Python 표준 라이브러리만 사용, `python3 main.py` 한 줄로 재현</sub>
 
 ### Writing
 
