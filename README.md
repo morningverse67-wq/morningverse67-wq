@@ -34,4 +34,4 @@ Claude Code·Codex·Aside 세션을 여러 개 돌리는 사람을 위한 무료
 
 <br />
 
-<sub>Made by morningverse · also [backend-lab](https://github.com/morningverse67-wq/backend-lab) · [backend-interview-lab](https://github.com/morningverse67-wq/backend-interview-lab) · [Velog](https://velog.io/@morningverse)</sub>
+<div align="center"><sub><b>morningverse</b> · independent software studio · <a href="https://carryon-app.pages.dev">carryon-app.pages.dev</a> · <a href="mailto:morningverse67@gmail.com">morningverse67@gmail.com</a></sub></div>
