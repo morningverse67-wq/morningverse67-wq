@@ -6,8 +6,8 @@
 
 ### I build backend services and prove them with numbers. | 백엔드 서비스를 만들고, 숫자로 증명합니다.
 
-Fewer queries, faster responses, every choice backed by numbers I measured.  
-쿼리는 줄이고 응답은 빠르게, 모든 선택은 직접 잰 숫자로 말합니다.
+Fewer queries, faster responses — measured, not guessed.  
+쿼리는 줄이고 응답은 빠르게. 추측 대신 직접 재서 확인합니다.
 
 <sub>BUILD · MEASURE · IMPROVE</sub>
 
@@ -24,12 +24,12 @@ Fewer queries, faster responses, every choice backed by numbers I measured.
 </td>
 <td width="400" valign="top">
 <h3>02 / Measure</h3>
-<b>Measure | 재기</b>
+<b>Measure | 측정하기</b>
 <p>Query counts and response times, not guesses.<br />추측 대신 쿼리 수와 응답 시간으로.</p>
 </td>
 <td width="400" valign="top">
 <h3>03 / Improve</h3>
-<b>Improve | 고치기</b>
+<b>Improve | 개선하기</b>
 <p>Pick the fix and write down the trade-off.<br />고칠 방법을 고르고 트레이드오프까지 남기기.</p>
 </td>
 </tr>
@@ -76,5 +76,5 @@ also &nbsp; · &nbsp; `JavaScript` &nbsp; `Swift`
 ---
 
 <p align="center">
-  <sub>SMALL STEPS. MEASURED CHOICES. A LITTLE BETTER, EVERY DAY. | 작게, 재 보고, 매일 조금 더 낫게.</sub>
+  <sub>SMALL STEPS. MEASURED CHOICES. A LITTLE BETTER, EVERY DAY. | 작은 걸음, 측정한 선택, 매일 조금씩 더 낫게.</sub>
 </p>
