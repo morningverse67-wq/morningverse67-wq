@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://carryon-app.pages.dev"><img src="https://carryon-app.pages.dev/img/icon.png" width="88" alt="CarryOn app icon, a sea otter" /></a>
+<a href="https://carryon-app.pages.dev/?lang=en"><img src="https://carryon-app.pages.dev/img/icon.png" width="88" alt="CarryOn app icon, a sea otter" /></a>
 
 # CarryOn
 
@@ -8,9 +8,9 @@
 
 A free macOS menu-bar app for people who run many Claude Code, Codex and Aside sessions.
 
-**[⬇ Download for macOS](https://carryon-app.pages.dev/download)** &nbsp;·&nbsp; [Website](https://carryon-app.pages.dev) &nbsp;·&nbsp; macOS 14+ · Free
+**[⬇ Download for macOS](https://carryon-app.pages.dev/download)** &nbsp;·&nbsp; [Website](https://carryon-app.pages.dev/?lang=en) &nbsp;·&nbsp; macOS 14+ · Free
 
-<a href="https://carryon-app.pages.dev"><img src="https://raw.githubusercontent.com/morningverse67-wq/carryon-app/main/docs/img/demo.gif" width="560" alt="CarryOn backing up a session at 92% context, compacting it, and showing 18%" /></a>
+<a href="https://carryon-app.pages.dev/?lang=en"><img src="https://raw.githubusercontent.com/morningverse67-wq/carryon-app/main/docs/img/demo.gif" width="560" alt="CarryOn backing up a session at 92% context, compacting it, and showing 18%" /></a>
 
 </div>
 
@@ -34,4 +34,4 @@ Claude Code·Codex·Aside 세션을 여러 개 돌리는 사람을 위한 무료
 
 <br />
 
-<div align="center"><sub><b>morningverse</b> · independent software studio · <a href="https://carryon-app.pages.dev">carryon-app.pages.dev</a> · <a href="mailto:morningverse67@gmail.com">morningverse67@gmail.com</a></sub></div>
+<div align="center"><sub><b>morningverse</b> · independent software studio · <a href="https://carryon-app.pages.dev/?lang=en">carryon-app.pages.dev</a> · <a href="mailto:morningverse67@gmail.com">morningverse67@gmail.com</a></sub></div>
