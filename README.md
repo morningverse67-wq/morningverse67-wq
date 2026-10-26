@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### I build backends that stay fast as data grows. | 데이터가 늘어도 빠른 백엔드를 만듭니다.
+### I build backend services and prove them with numbers. | 백엔드 서비스를 만들고, 숫자로 증명합니다.
 
 Fewer queries, faster responses, every choice backed by numbers I measured.  
 쿼리는 줄이고 응답은 빠르게, 모든 선택은 직접 잰 숫자로 말합니다.
