@@ -6,7 +6,7 @@
 
 **Your AI coding session is 92% full. Back it up, compact it, carry on.**
 
-A free macOS menu-bar app for people who run many Claude Code, Codex and Aside sessions.
+A free macOS menu-bar app for people who run many Claude Code, Codex, Aside and Gemini CLI sessions.
 
 **[⬇ Download for macOS](https://carryon-app.pages.dev/download)** &nbsp;·&nbsp; [Website](https://carryon-app.pages.dev/?lang=en) &nbsp;·&nbsp; macOS 14+ · Free
 
@@ -16,6 +16,8 @@ A free macOS menu-bar app for people who run many Claude Code, Codex and Aside s
 
 - **See every session's context** — what's waiting for you, what's almost full, what's running.
 - **Back up & compact in place** — Claude Code and Codex keep going in the same session.
+- **Start fresh in Orca** — on a Claude Code running in an Orca pane, one button backs it up, types `/clear` and the go-on message. Only when you press it, only while it's idle.
+- **Roles and teams** — give a session a role, name a group of sessions as a team.
 - **Close idle Claude Code sessions** — and see which ones read the most tokens in the last 24 hours.
 
 ```sh
@@ -28,10 +30,10 @@ curl -fsSL https://carryon-app.pages.dev/install.sh | sh
 <br />
 
 **AI 코딩 세션이 92% 찼다면, 백업하고 압축해서 이어 가세요.**  
-Claude Code·Codex·Aside 세션을 여러 개 돌리는 사람을 위한 무료 macOS 메뉴바 앱이에요. 세션마다 컨텍스트가 얼마나 찼는지 보여 주고, Claude Code·Codex 세션은 백업한 뒤 그 자리에서 압축해요. [macOS용 받기](https://carryon-app.pages.dev/download)
+Claude Code·Codex·Aside·Gemini CLI 세션을 여러 개 돌리는 사람을 위한 무료 macOS 메뉴바 앱이에요. 세션마다 컨텍스트가 얼마나 찼는지 보여 주고, 백업한 뒤 그 자리에서 압축하거나 새 세션으로 이어 가요(Orca 안 Claude Code는 버튼 하나로 `/clear` 후 이어 가기). 세션에 역할을, 세션 묶음에 부서 이름을 붙일 수도 있어요. [macOS용 받기](https://carryon-app.pages.dev/download)
 
 </details>
 
 <br />
 
-<div align="center"><sub><b>morningverse</b> · independent software studio · <a href="https://carryon-app.pages.dev/?lang=en">carryon-app.pages.dev</a> · <a href="mailto:morningverse67@gmail.com">morningverse67@gmail.com</a></sub></div>
+<div align="center"><sub><b>morningverse</b> · independent software studio · <a href="https://carryon-app.pages.dev/?lang=en">carryon-app.pages.dev</a> · <a href="https://x.com/carryon__app">X @carryon__app</a> · <a href="mailto:morningverse67@gmail.com">morningverse67@gmail.com</a></sub></div>
