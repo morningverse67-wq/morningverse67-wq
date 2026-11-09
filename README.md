@@ -4,15 +4,15 @@
 
 # CarryOn
 
-**Your AI coding session is 92% full. Back it up, compact it, carry on.**
+**Every AI coding session, at a glance. Compact the full ones in one tap.**
 
-For people who run many Claude Code, Codex, Aside and Gemini CLI sessions. Free on the Mac. **New: Windows and Android betas are out, iPhone is coming soon.**
+For people who run many Claude Code, Codex, Aside and Gemini CLI sessions. Free. **New: CarryOn for iPhone is on the App Store.**
 
-**[⬇ macOS](https://carryon-app.pages.dev/download)** &nbsp;·&nbsp; **[⬇ Windows (beta)](https://carryon-app.pages.dev/download/windows)** &nbsp;·&nbsp; **[⬇ Android (beta)](https://carryon-app.pages.dev/download/android)** &nbsp;·&nbsp; [iPhone (coming soon)](https://apps.apple.com/app/id6831468074) &nbsp;·&nbsp; [Website](https://carryon-app.pages.dev/?lang=en)
+**[⬇ macOS](https://carryon-app.pages.dev/download?s=github)** &nbsp;·&nbsp; **[iPhone (App Store)](https://apps.apple.com/app/id6831468074?ct=github)** &nbsp;·&nbsp; [⬇ Windows (beta)](https://carryon-app.pages.dev/download/windows?s=github) &nbsp;·&nbsp; [Android (beta testers wanted)](https://carryon-app.pages.dev/?s=github&lang=en#android) &nbsp;·&nbsp; [Website](https://carryon-app.pages.dev/?s=github&lang=en)
 
-<sub>macOS 14+ · Windows 10 1903+ x64 · Android 7+ (the phone app needs CarryOn on your computer) · Free</sub>
+<sub>macOS 14+ · iOS 15+ · Windows 10 1903+ x64 · Android 7+ (the phone apps need CarryOn on your computer) · Free</sub>
 
-<a href="https://carryon-app.pages.dev/?lang=en"><img src="https://raw.githubusercontent.com/morningverse67-wq/carryon-app/main/docs/img/demo.gif" width="560" alt="CarryOn backing up a session at 92% context, compacting it, and showing 18%" /></a>
+<a href="https://carryon-app.pages.dev/?lang=en"><img src="https://raw.githubusercontent.com/morningverse67-wq/carryon-app/main/docs/img/demo.gif" width="560" alt="CarryOn backing up a session and compacting it (sample data)" /></a>
 
 </div>
 
@@ -31,8 +31,8 @@ curl -fsSL https://carryon-app.pages.dev/install.sh | sh
 
 <br />
 
-**AI 코딩 세션이 92% 찼다면, 백업하고 압축해서 이어 가세요.**  
-Claude Code·Codex·Aside·Gemini CLI 세션을 여러 개 돌리는 사람을 위한 앱이에요. Mac은 무료이고, **Windows·Android 시험판도 나왔고, iPhone도 곧 나와요.** 세션마다 컨텍스트가 얼마나 찼는지 보여 주고, 백업한 뒤 그 자리에서 압축하거나 새 세션으로 이어 가요(Orca 안 Claude Code는 버튼 하나로 `/clear` 후 이어 가기). 세션에 역할을, 세션 묶음에 부서 이름을 붙일 수도 있어요. [macOS](https://carryon-app.pages.dev/download) · [Windows 시험판](https://carryon-app.pages.dev/download/windows) · [Android 시험판](https://carryon-app.pages.dev/download/android) · [iPhone (곧 출시)](https://apps.apple.com/app/id6831468074)
+**AI 코딩 세션, 꽉 차기 전에 버튼 하나로 정리.**  
+Claude Code·Codex·Aside·Gemini CLI 세션을 여러 개 돌리는 사람을 위한 앱이에요. 무료이고, **iPhone 앱이 App Store에 나왔어요.** 세션마다 컨텍스트가 얼마나 찼는지 보여 주고, 백업한 뒤 그 자리에서 압축하거나 새 세션으로 이어 가요(Orca 안 Claude Code는 버튼 하나로 `/clear` 후 이어 가기). 세션에 역할을, 세션 묶음에 부서 이름을 붙일 수도 있어요. [macOS](https://carryon-app.pages.dev/download?s=github) · [iPhone (App Store)](https://apps.apple.com/kr/app/id6831468074?ct=github) · [Windows 시험판](https://carryon-app.pages.dev/download/windows?s=github) · [Android 시험판 테스터 모집](https://carryon-app.pages.dev/?s=github&lang=ko#android)
 
 </details>
 
