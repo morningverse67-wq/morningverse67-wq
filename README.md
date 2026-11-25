@@ -27,6 +27,13 @@ For people who run many Claude Code, Codex, Aside and Gemini CLI sessions. **Fre
 curl -fsSL https://carryon-app.pages.dev/install.sh | sh
 ```
 
+## More from morningverse
+
+- [backend-lab](https://github.com/morningverse67-wq/backend-lab): 45 small, runnable backend performance experiments (N+1, indexes, locks, caches), measured in Python and Java
+- [backend-interview-lab](https://github.com/morningverse67-wq/backend-interview-lab): backend interview answers backed by numbers from those experiments
+- [Velog](https://velog.io/@morningverse): write-ups of what I measure and build (Korean)
+- [만떠](https://mantteo.com): a place to make things and talk about them (Korean)
+
 <details>
 <summary>한국어</summary>
 
